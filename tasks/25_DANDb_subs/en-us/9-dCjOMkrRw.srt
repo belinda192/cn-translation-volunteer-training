@@ -1,6 +1,6 @@
 1
 00:00:00,012 --> 00:00:05,050
-What if we looked at our data and noticed that everyone who got less than six
+如果说我们的数据表明 少于六小时睡眠的人都在短期记忆得分上少于 70% What if we looked at our data and noticed that everyone who got less than six
 
 2
 00:00:05,062 --> 00:00:10,400
