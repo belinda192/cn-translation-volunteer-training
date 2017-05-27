@@ -1,19 +1,20 @@
 1
 00:00:00,012 --> 00:00:04,650
-The answer, if this were true, is that the more you sleep, the better your
+正确答案是 如果这是真的 可以断定 你睡得越多 The answer, if this were true, is that the more you sleep, the better your
 
 2
 00:00:04,662 --> 00:00:09,435
-memory. People who didn't sleep for very long got lower scores. People that
+你的记忆力越好 睡得太少的人得分更低 memory. People who didn't sleep for very long got lower scores. People that
 
 3
 00:00:09,447 --> 00:00:14,320
-slept for longer, more than 6 hours, got better scores. So, if all the data
+而那些睡了六个小时以上的人们得分更高 所以 如果所有数据 slept for longer, more than 6 hours, got better scores. So, if all the data
 
 4
 00:00:14,332 --> 00:00:19,455
-followed this pattern, we could reasonably conclude that the more you sleep, the
+都遵循此规律 我们便可以合理推断 你睡得越多 followed this pattern, we could reasonably conclude that the more you sleep, the
 
 5
 00:00:19,467 --> 00:00:20,662
 better your memory tends to be.
+你的记忆力越可能更好
